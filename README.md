@@ -1,7 +1,7 @@
 # argentluminary.github.io
 # Argent Luminary
 
-**An independent literary magazine devoted to beauty, depth, authenticity, and literary excellence.**
+**An independent literary magazine devoted to beauty, depth, authenticity and literary excellence.**
 
 ## Our Purpose
 
